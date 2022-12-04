@@ -1,0 +1,5 @@
+project: goimagehash
+target: goimagehash
+
+cmds:
+  - cmd: /fuzzimagehash @@
